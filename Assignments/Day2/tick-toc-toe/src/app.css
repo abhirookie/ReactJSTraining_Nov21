@@ -1,0 +1,115 @@
+.ttt-header{
+    background-color:rgb(135, 171, 250);
+    border: 3px solid brown;   
+    height: 81px;
+    width: 530px;
+    left: 23px;
+    top:25px;
+    padding-left: 5px;
+   
+    position: fixed;
+    z-index: 2;
+    font-family: 'Century Gothic';
+    font-size: 40px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.801);
+}
+
+
+.ttt-game{
+    border: 5px solid orange;   
+    height: 470px;
+    width: 527px;
+    left: 23px;
+    top:125px;
+    padding-left: 3px;
+    position: fixed;
+    z-index: 2;
+
+ 
+}
+
+.ttt-game st{
+    background-color:gray;
+    border: none;   
+    height: 40px;
+    width: 220px;
+    left: 190px;
+    top:135px;
+    padding-left: 5px;
+    position: fixed;
+    z-index: 2;
+    font-family: 'Century Gothic';
+    font-size: 30px;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+
+}
+
+.ttt-game bo{
+    border: 6px solid yellowgreen;   
+    height: 350px;
+    width: 350px;
+    left: 115px;
+    top:180px;
+    padding-left: 5px;
+    position: fixed;
+    z-index: 2;
+    font-family: 'Century Gothic';
+    font-size: 30px;
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+
+.ttt-game rs{
+    border: 6px solid darkred;   
+    height: 40px;
+    width: 140px;
+    left: 210px;
+    top:545px;
+    padding-left: 5px;
+    position: fixed;
+    z-index: 2;
+    font-family: 'Century Gothic';
+    font-size: 30px;
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    background-color: rgba(117, 3, 3, 0.829);
+    
+}
+.ttt-game bo ce{
+    border: 3px solid darkred;   
+    height: 104px;
+    width: 104px;
+    left: 130px;
+    top:195px;
+    padding-left: 5px;
+    position: fixed;
+    z-index: 2;
+    font-family: 'Century Gothic';
+    font-size: 30px;
+    text-decoration: none;
+    color:black;
+    text-align: center;
+    background-color: whitesmoke;
+    
+}
+
+.container{
+    border: 3px solid brown;   
+    height: 600px;
+    width: 550px;
+    position:fixed;
+    background-color:lightgoldenrodyellow;
+    z-index: 1;
+    left:15px;
+    top:15px;
+    font:Calibri;
+    font-weight:Normal;
+    font-size:2vmax;
+    position:'fixed'
+    
+}
